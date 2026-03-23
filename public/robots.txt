@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+Disallow: /*.json$
+Disallow: /*?*
+Allow: /*?sort=
+Allow: /*?filter=
+
+Sitemap: https://ascora.io/sitemap.xml

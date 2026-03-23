@@ -1,0 +1,342 @@
+[
+  {
+    "id": "agr-001",
+    "name": "Rice",
+    "slug": "rice",
+    "category": "agriculture",
+    "image": "/agriculture/rice.webp",
+    "description": "High-quality basmati and non-basmati rice with superior taste and aroma. Carefully selected and processed to maintain nutritional value.",
+    "moq": 2,
+    "quantity": 50
+  },
+  {
+    "id": "agr-002",
+    "name": "Turmeric",
+    "slug": "turmeric",
+    "category": "agriculture",
+    "image": "/agriculture/turmaric.webp",
+    "description": "Pure turmeric powder and roots sourced from premium farms. Rich in curcumin and natural color. Perfect for cooking and medicinal uses.",
+    "moq": 1,
+    "quantity": 30
+  },
+  {
+    "id": "agr-003",
+    "name": "Tur Dal",
+    "slug": "tur-dal",
+    "category": "agriculture",
+    "image": "/agriculture/turdal.webp",
+    "description": "Premium quality pigeon peas (Tur Dal) with excellent protein content. Suitable for domestic and commercial use.",
+    "moq": 2,
+    "quantity": 40
+  },
+  {
+    "id": "agr-004",
+    "name": "Soyabean",
+    "slug": "soyabean",
+    "category": "agriculture",
+    "image": "/agriculture/soyabean.jpg",
+    "description": "High-grade soybeans for export with superior quality and certification. Ideal for food processing and livestock feed.",
+    "moq": 5,
+    "quantity": 100
+  },
+  {
+    "id": "auto-001",
+    "name": "Engine Parts",
+    "slug": "engine-parts",
+    "category": "automobile",
+    "image": "/automobile/enginepart.webp",
+    "description": "High-quality engine components manufactured to international standards. Precision-engineered and durable for automotive applications.",
+    "moq": 10,
+    "quantity": 250
+  },
+  {
+    "id": "auto-002",
+    "name": "Brake Components",
+    "slug": "brake-components",
+    "category": "automobile",
+    "image": "/automobile/break.jpg",
+    "description": "Precision brake system parts ensuring safety and reliability. ISO certified and tested for performance.",
+    "moq": 20,
+    "quantity": 500
+  },
+  {
+    "id": "auto-003",
+    "name": "Clutch Plates",
+    "slug": "clutch-plates",
+    "category": "automobile",
+    "image": "/automobile/cluthchp.webp",
+    "description": "Durable clutch and transmission parts designed for extended lifespan. Compatible with various automotive platforms.",
+    "moq": 15,
+    "quantity": 300
+  },
+  {
+    "id": "auto-004",
+    "name": "Auto Electrical Parts",
+    "slug": "auto-electrical-parts",
+    "category": "automobile",
+    "image": "/automobile/autoelc.webp",
+    "description": "Automotive electrical components with superior conductivity and reliability. Perfect for modern vehicle systems.",
+    "moq": 25,
+    "quantity": 400
+  },
+  {
+    "id": "auto-005",
+    "name": "Car Filters",
+    "slug": "car-filters",
+    "category": "automobile",
+    "image": "/automobile/carfilter.webp",
+    "description": "Air and oil filter systems designed for optimal engine performance. High-efficiency filtration with easy installation.",
+    "moq": 30,
+    "quantity": 600
+  },
+  {
+    "id": "auto-006",
+    "name": "Bearings",
+    "slug": "bearings",
+    "category": "automobile",
+    "image": "/automobile/bearing.webp",
+    "description": "Industrial and automotive bearings with precision engineering. Suitable for heavy-duty applications.",
+    "moq": 12,
+    "quantity": 200
+  },
+  {
+    "id": "auto-007",
+    "name": "Industrial Gears",
+    "slug": "industrial-gears",
+    "category": "automobile",
+    "image": "/automobile/indgear.webp",
+    "description": "Precision gearbox components manufactured with advanced technology. Meets international automotive specifications.",
+    "moq": 8,
+    "quantity": 150
+  },
+  {
+    "id": "auto-008",
+    "name": "Metal Components",
+    "slug": "metal-components",
+    "category": "automobile",
+    "image": "/automobile/metalc.webp",
+    "description": "Machined metal auto parts produced with CNC precision. Various materials including steel and aluminum.",
+    "moq": 18,
+    "quantity": 350
+  },
+  {
+    "id": "auto-009",
+    "name": "Automotive Tools",
+    "slug": "automotive-tools",
+    "category": "automobile",
+    "image": "/automobile/automotivetools.jpg",
+    "description": "Professional automotive tools designed for efficiency and durability. Complete toolkit available for mechanics.",
+    "moq": 5,
+    "quantity": 120
+  },
+  {
+    "id": "auto-010",
+    "name": "Suspension Parts",
+    "slug": "suspension-parts",
+    "category": "automobile",
+    "image": "/automobile/suspension.webp",
+    "description": "Shock absorbers and suspension units for smooth ride quality. Engineered for comfort and safety.",
+    "moq": 10,
+    "quantity": 180
+  },
+  {
+    "id": "auto-011",
+    "name": "Radiators",
+    "slug": "radiators",
+    "category": "automobile",
+    "image": "/automobile/raditor.webp",
+    "description": "Cooling system radiators with efficient heat dissipation. Aluminum construction for lightweight performance.",
+    "moq": 8,
+    "quantity": 160
+  },
+  {
+    "id": "auto-012",
+    "name": "Fuel Pumps",
+    "slug": "fuel-pumps",
+    "category": "automobile",
+    "image": "/automobile/fuelpump.webp",
+    "description": "Electric fuel pump systems ensuring reliable fuel delivery. Compatible with most vehicle models.",
+    "moq": 12,
+    "quantity": 220
+  },
+  {
+    "id": "auto-013",
+    "name": "Auto Fasteners",
+    "slug": "auto-fasteners",
+    "category": "automobile",
+    "image": "/automobile/fasteners.webp",
+    "description": "Bolts, nuts, and fasteners meeting automotive standards. Various sizes and materials available.",
+    "moq": 50,
+    "quantity": 1000
+  },
+  {
+    "id": "auto-014",
+    "name": "Drive Shafts",
+    "slug": "drive-shafts",
+    "category": "automobile",
+    "image": "/automobile/driveshaft.webp",
+    "description": "Drive shaft and axle components designed for durability. Precision balanced for smooth operation.",
+    "moq": 6,
+    "quantity": 140
+  },
+  {
+    "id": "auto-015",
+    "name": "Automotive Sensors",
+    "slug": "automotive-sensors",
+    "category": "automobile",
+    "image": "/automobile/sensorss.webp",
+    "description": "Electronic sensor systems for vehicle diagnostics and performance. Advanced technology for modern vehicles.",
+    "moq": 20,
+    "quantity": 350
+  },
+  {
+    "id": "hnd-001",
+    "name": "Wooden Handicrafts",
+    "slug": "wooden-handicrafts",
+    "category": "handicraft",
+    "image": "/handicrafts/woodenhandcraft.webp",
+    "description": "Traditional wooden carved items showcasing authentic artistry. Each piece handcrafted with attention to detail.",
+    "moq": 6,
+    "quantity": 100
+  },
+  {
+    "id": "hnd-002",
+    "name": "Brass Handicrafts",
+    "slug": "brass-handicrafts",
+    "category": "handicraft",
+    "image": "/handicrafts/brasshandicrafts.jpg",
+    "description": "Authentic brass decorative pieces with intricate designs. Premium quality finish and durability.",
+    "moq": 3,
+    "quantity": 60
+  },
+  {
+    "id": "hnd-003",
+    "name": "Metal Decorative Items",
+    "slug": "metal-decorative-items",
+    "category": "handicraft",
+    "image": "/handicrafts/metaldecor.webp",
+    "description": "Handforged metal decorations featuring unique artistic designs. Perfect for home and office décor.",
+    "moq": 4,
+    "quantity": 80
+  },
+  {
+    "id": "hnd-004",
+    "name": "Handmade Sculptures",
+    "slug": "handmade-sculptures",
+    "category": "handicraft",
+    "image": "/handicrafts/handsculp.jpg",
+    "description": "Artistic handmade sculptures created by skilled artisans. Limited edition pieces with authentic craftsmanship.",
+    "moq": 2,
+    "quantity": 40
+  },
+  {
+    "id": "hnd-005",
+    "name": "Traditional Indian Art",
+    "slug": "traditional-indian-art",
+    "category": "handicraft",
+    "image": "/handicrafts/tindianart.webp",
+    "description": "Authentic Indian artistic items representing cultural heritage. Traditional patterns and contemporary designs available.",
+    "moq": 3,
+    "quantity": 50
+  },
+  {
+    "id": "hnd-006",
+    "name": "Wooden Furniture",
+    "slug": "wooden-furniture",
+    "category": "handicraft",
+    "image": "/handicrafts/woodfur.webp",
+    "description": "Hand-carved wooden furniture combining functionality with artistry. Durable hardwood construction.",
+    "moq": 2,
+    "quantity": 30
+  },
+  {
+    "id": "hnd-007",
+    "name": "Handmade Jewelry",
+    "slug": "handmade-jewelry",
+    "category": "handicraft",
+    "image": "/handicrafts/hjewl.jpg",
+    "description": "Artisan-crafted jewelry pieces with unique designs. Various materials including silver, brass, and stones.",
+    "moq": 10,
+    "quantity": 150
+  },
+  {
+    "id": "hnd-008",
+    "name": "Clay Pots",
+    "slug": "clay-pots",
+    "category": "handicraft",
+    "image": "/handicrafts/claypot.webp",
+    "description": "Traditional clay pottery items handmade by experienced potters. Suitable for decorative and functional purposes.",
+    "moq": 8,
+    "quantity": 120
+  },
+  {
+    "id": "hnd-009",
+    "name": "Stone Artifacts",
+    "slug": "stone-artifacts",
+    "category": "handicraft",
+    "image": "/handicrafts/stoneart.jpg",
+    "description": "Hand-carved stone artifacts featuring intricate details. Premium marble and stone quality.",
+    "moq": 3,
+    "quantity": 50
+  },
+  {
+    "id": "hnd-010",
+    "name": "Bamboo Crafts",
+    "slug": "bamboo-crafts",
+    "category": "handicraft",
+    "image": "/handicrafts/bambo.webp",
+    "description": "Eco-friendly bamboo handicrafts supporting sustainable practices. Lightweight and durable.",
+    "moq": 6,
+    "quantity": 90
+  },
+  {
+    "id": "hnd-011",
+    "name": "Wall Decor",
+    "slug": "wall-decor",
+    "category": "handicraft",
+    "image": "/handicrafts/walldecore.webp",
+    "description": "Handmade wall decoration items enhancing interior spaces. Various styles and designs available.",
+    "moq": 5,
+    "quantity": 110
+  },
+  {
+    "id": "hnd-012",
+    "name": "Handmade Lamps",
+    "slug": "handmade-lamps",
+    "category": "handicraft",
+    "image": "/handicrafts/handmadelamps.webp",
+    "description": "Artisan-crafted lamps and lighting with artistic flair. Energy-efficient and beautifully designed.",
+    "moq": 4,
+    "quantity": 70
+  },
+  {
+    "id": "hnd-013",
+    "name": "Decorative Boxes",
+    "slug": "decorative-boxes",
+    "category": "handicraft",
+    "image": "/handicrafts/decorbox.jpg",
+    "description": "Hand-decorated storage boxes combining beauty with functionality. Perfect for organizing and gifting.",
+    "moq": 6,
+    "quantity": 100
+  },
+  {
+    "id": "hnd-014",
+    "name": "Painted Pottery",
+    "slug": "painted-pottery",
+    "category": "handicraft",
+    "image": "/handicrafts/paintedpotery.jpeg",
+    "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
+    "moq": 5,
+    "quantity": 80
+  },
+  {
+    "id": "hnd-015",
+    "name": "Ethnic Decor Items",
+    "slug": "ethnic-decor-items",
+    "category": "handicraft",
+    "image": "/handicrafts/ithenicdecor.webp",
+    "description": "Traditional ethnic décor products representing cultural diversity. Adds character to any space.",
+    "moq": 4,
+    "quantity": 75
+  }
+]

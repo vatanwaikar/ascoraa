@@ -1,0 +1,54 @@
+[
+  {
+    "id": "agr-001",
+    "name": "Rice",
+    "slug": "rice",
+    "image": "/agriculture/rice.webp",
+    "description": "High-quality basmati and non-basmati rice with superior taste and aroma. Carefully selected and processed to maintain nutritional value.",
+    "sampleMoq": 1,
+    "mainMoq": 2,
+    "hsCode": "1005.90.00",
+    "orderType": "main",
+    "minPrice": 100,
+    "maxPrice": 200
+  },
+  {
+    "id": "agr-002",
+    "name": "Turmeric",
+    "slug": "turmeric",
+    "image": "/agriculture/turmaric.webp",
+    "description": "Pure turmeric powder and roots sourced from premium farms. Rich in curcumin and natural color. Perfect for cooking and medicinal uses.",
+    "sampleMoq": 1,
+    "mainMoq": 1,
+    "hsCode": "1005.90.00",
+    "orderType": "main",
+    "minPrice": 150,
+    "maxPrice": 300
+  },
+  {
+    "id": "agr-003",
+    "name": "Tur Dal",
+    "slug": "tur-dal",
+    "image": "/agriculture/turdal.webp",
+    "description": "Premium quality pigeon peas (Tur Dal) with excellent protein content. Suitable for domestic and commercial use.",
+    "sampleMoq": 1,
+    "mainMoq": 2,
+    "hsCode": "1005.90.00",
+    "orderType": "main",
+    "minPrice": 120,
+    "maxPrice": 250
+  },
+  {
+    "id": "agr-004",
+    "name": "Soyabean",
+    "slug": "soyabean",
+    "image": "/agriculture/soyabean.jpg",
+    "description": "High-grade soybeans for export with superior quality and certification. Ideal for food processing and livestock feed.",
+    "sampleMoq": 1,
+    "mainMoq": 5,
+    "hsCode": "1005.90.00",
+    "orderType": "main",
+    "minPrice": 80,
+    "maxPrice": 180
+  }
+]
