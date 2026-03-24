@@ -104,11 +104,11 @@ export default function AboutPage() {
                 <div className="relative bg-gradient-to-br from-accent/10 to-primary/10 rounded-2xl p-8 border border-border/50 backdrop-blur-sm">
                   <div className="space-y-6">
                     <div className="text-4xl font-bold text-primary">Founded</div>
-                    <div className="text-2xl font-bold text-foreground">2015</div>
+                    <div className="text-2xl font-bold text-foreground">2025</div>
                     <div className="pt-6 border-t border-border">
                       <div className="space-y-4">
                         <div>
-                          <div className="text-sm text-muted-foreground mb-2">10,000+ Users</div>
+                          <div className="text-sm text-muted-foreground mb-2">100+ Verified Suppliers</div>
                           <div className="w-full bg-secondary rounded-full h-2"></div>
                         </div>
                         <div>
@@ -162,41 +162,58 @@ export default function AboutPage() {
           </div>
         </section>
 
-        {/* Team Section */}
-        <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-20">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">
-              Leadership Team
-            </h2>
-            <p className="text-lg text-muted-foreground">
-              Industry experts dedicated to your success
-            </p>
-          </div>
+        {/* Our Capabilities Section */}
+<section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-20">
+  <div className="text-center mb-16">
+    <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">
+      Our Capabilities
+    </h2>
+    <p className="text-lg text-muted-foreground">
+      Built to support seamless global trade at every stage
+    </p>
+  </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {teamMembers.map((member, idx) => (
-              <div
-                key={idx}
-                className="p-6 rounded-xl bg-card border border-border hover:border-accent/50 text-center transition-all duration-200 group"
-              >
-                <div className="w-24 h-24 rounded-full bg-gradient-to-br from-accent/20 to-primary/20 mx-auto mb-4 flex items-center justify-center">
-                  <div className="text-3xl font-bold text-primary">
-                    {member.name.charAt(0)}
-                  </div>
-                </div>
-                <h3 className="font-semibold text-lg text-foreground mb-1">
-                  {member.name}
-                </h3>
-                <p className="text-accent font-medium text-sm mb-3">
-                  {member.role}
-                </p>
-                <p className="text-sm text-muted-foreground">
-                  {member.bio}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+  <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+    {[
+      {
+        title: 'Supplier Verification',
+        desc: 'We ensure every supplier meets quality and reliability standards before onboarding.',
+      },
+      {
+        title: 'Bulk Order Handling',
+        desc: 'Efficient management of large-scale orders with consistent quality control.',
+      },
+      {
+        title: 'Export Documentation',
+        desc: 'Complete support for invoices, packing lists, certifications, and compliance.',
+      },
+      {
+        title: 'Logistics Coordination',
+        desc: 'Smooth handling of shipping, freight forwarding, and delivery timelines.',
+      },
+      {
+        title: 'Custom Requirements',
+        desc: 'Flexible solutions tailored to your product specifications and market needs.',
+      },
+      {
+        title: 'End-to-End Support',
+        desc: 'From inquiry to delivery, we stay with you throughout the entire process.',
+      },
+    ].map((item, idx) => (
+      <div
+        key={idx}
+        className="p-6 rounded-xl bg-card border border-border hover:border-accent/50 transition-all duration-200"
+      >
+        <h3 className="font-semibold text-lg text-foreground mb-3">
+          {item.title}
+        </h3>
+        <p className="text-sm text-muted-foreground">
+          {item.desc}
+        </p>
+      </div>
+    ))}
+  </div>
+</section>
 
         {/* Stats Section */}
         <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-20">
@@ -206,10 +223,10 @@ export default function AboutPage() {
                 <div className="text-4xl font-bold text-primary mb-2">9+</div>
                 <p className="text-foreground font-medium">Years in Business</p>
               </div>
-              <div>
-                <div className="text-4xl font-bold text-primary mb-2">10K+</div>
-                <p className="text-foreground font-medium">Active Traders</p>
-              </div>
+             <div>
+  <div className="text-4xl font-bold text-primary mb-2">100+</div>
+  <p className="text-foreground font-medium">Verified Suppliers</p> 
+</div>
               <div>
                 <div className="text-4xl font-bold text-primary mb-2">150+</div>
                 <p className="text-foreground font-medium">Countries Served</p>
