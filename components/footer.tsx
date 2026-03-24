@@ -37,23 +37,18 @@ export function Footer() {
             <h3 className="font-semibold mb-4 text-base">Products</h3>
             <ul className="space-y-3 text-sm">
               <li>
-                <Link href="/products#export" className="opacity-90 hover:opacity-100 transition">
-                  Export Solutions
+                <Link href="/categories/agriculture" className="opacity-90 hover:opacity-100 transition">
+                  Agriculture
                 </Link>
               </li>
               <li>
-                <Link href="/products#import" className="opacity-90 hover:opacity-100 transition">
-                  Import Services
+                <Link href="/categories/handicrafts" className="opacity-90 hover:opacity-100 transition">
+                  Handcrafts
                 </Link>
               </li>
               <li>
-                <Link href="/products#logistics" className="opacity-90 hover:opacity-100 transition">
-                  Logistics
-                </Link>
-              </li>
-              <li>
-                <Link href="/products#compliance" className="opacity-90 hover:opacity-100 transition">
-                  Compliance
+                <Link href="/categories/automobile" className="opacity-90 hover:opacity-100 transition">
+                  Automobile Industry
                 </Link>
               </li>
             </ul>
@@ -91,24 +86,24 @@ export function Footer() {
             <h3 className="font-semibold mb-4 text-base">Legal</h3>
             <ul className="space-y-3 text-sm">
               <li>
-                <a href="#" className="opacity-90 hover:opacity-100 transition">
+                <Link href="/privacy-policy" className="opacity-90 hover:opacity-100 transition">
                   Privacy Policy
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="opacity-90 hover:opacity-100 transition">
+                <Link href="/terms-of-service" className="opacity-90 hover:opacity-100 transition">
                   Terms of Service
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="opacity-90 hover:opacity-100 transition">
+                <Link href="/cookie-policy" className="opacity-90 hover:opacity-100 transition">
                   Cookie Policy
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="opacity-90 hover:opacity-100 transition">
+                <Link href="/accessibility" className="opacity-90 hover:opacity-100 transition">
                   Accessibility
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
