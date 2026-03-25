@@ -127,7 +127,13 @@ export default function ProductPage({ params }: ProductPageProps) {
 
                     {/* Price Range */}
                     <div>
-                      <PriceRange minPrice={product.minPrice} maxPrice={product.maxPrice} />
+                      <PriceRange
+                        minPrice={product.minPrice}
+                        maxPrice={product.maxPrice}
+                        sampleMoq={product.sampleMoq}
+                        mainMoq={product.mainMoq}
+                        size={product.size}
+                      />
                     </div>
 
                     {/* Product Info Cards */}
@@ -136,6 +142,7 @@ export default function ProductPage({ params }: ProductPageProps) {
                         sampleMoq={product.sampleMoq}
                         mainMoq={product.mainMoq}
                         hsCode={product.hsCode}
+                        size={product.size}
                       />
                     </div>
 

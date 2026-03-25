@@ -10,6 +10,7 @@ export interface Product {
   orderType: string
   minPrice: number
   maxPrice: number
+  size?: string
 }
 
 export type CategoryType = 'agriculture' | 'automobile' | 'handicraft'

@@ -10,7 +10,8 @@
     "hsCode": "6304.99.00",
     "orderType": "main",
     "minPrice": 45,
-    "maxPrice": 60
+    "maxPrice": 60,
+    "size": "4 inch"
   },
   {
     "id": "hnd-002",
@@ -23,6 +24,7 @@
     "hsCode": "4420.90.00",
     "orderType": "main",
     "minPrice": 12,
+    "size": "6x4 inch",
     "maxPrice": 30
   },
   {

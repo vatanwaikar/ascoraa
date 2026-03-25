@@ -1,79 +1,56 @@
 'use client'
 
-import { Package, Code2 } from 'lucide-react'
+import { Code2, Package } from 'lucide-react'
 
 interface ProductInfoCardsProps {
   sampleMoq: number
   mainMoq: number
   hsCode: string
+  size?: string
 }
 
-export function ProductInfoCards({ sampleMoq, mainMoq, hsCode }: ProductInfoCardsProps) {
-  const cards = [
-    {
-      icon: Package,
-      label: 'Sample Order Quantity',
-      value: sampleMoq,
-      unit: 'pcs/units',
-      color: 'text-blue-600 dark:text-blue-400',
-      bgColor: 'bg-blue-50 dark:bg-blue-950/30',
-    },
-    {
-      icon: Package,
-      label: 'MOQ',
-      value: mainMoq,
-      unit: 'pcs/units',
-      color: 'text-purple-600 dark:text-purple-400',
-      bgColor: 'bg-purple-50 dark:bg-purple-950/30',
-    },
-    {
-      icon: Code2,
-      label: 'HS Code',
-      value: hsCode,
-      unit: '',
-      color: 'text-green-600 dark:text-green-400',
-      bgColor: 'bg-green-50 dark:bg-green-950/30',
-      isString: true,
-    },
-  ]
-
+export function ProductInfoCards({ sampleMoq, mainMoq, hsCode, size }: ProductInfoCardsProps) {
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 w-full">
-      {cards.map((card, index) => {
-        const Icon = card.icon
-        return (
-          <div
-            key={index}
-            className={`${card.bgColor} border border-gray-200 dark:border-gray-700 rounded-2xl p-4 sm:p-5 lg:p-6 transition-all duration-300 hover:shadow-lg hover:scale-105 cursor-default`}
-          >
-            <div className="flex flex-col gap-3">
-              <div className="flex items-center gap-2">
-                <div className={`p-2 rounded-lg bg-white dark:bg-gray-800 shadow-sm flex-shrink-0`}>
-                  <Icon className={`${card.color}`} size={20} />
-                </div>
-                <p className="text-sm font-semibold text-gray-700 dark:text-gray-300">
-                  {card.label}
-                </p>
+    <div className="mb-8 space-y-4">
+      {/* HS Code Strip */}
+      <div className="bg-linear-to-r from-green-50 to-emerald-50 dark:from-green-950/30 dark:to-emerald-950/30 border border-green-200 dark:border-green-800 rounded-2xl p-6">
+        <div className="flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <div className="p-3 rounded-xl bg-white dark:bg-gray-800 shadow-sm shrink-0">
+              <Code2 className="text-green-600 dark:text-green-400" size={24} />
+            </div>
+            <div>
+              <p className="text-sm font-semibold text-green-700 dark:text-green-300 mb-1">
+                HS Code
+              </p>
+              <p className="text-2xl md:text-3xl font-bold text-foreground">
+                {hsCode}
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Size Strip */}
+      {size && (
+        <div className="bg-linear-to-r from-orange-50 to-amber-50 dark:from-orange-950/30 dark:to-amber-950/30 border border-orange-200 dark:border-orange-800 rounded-2xl p-6">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <div className="p-3 rounded-xl bg-white dark:bg-gray-800 shadow-sm shrink-0">
+                <Package className="text-orange-600 dark:text-orange-400" size={24} />
               </div>
-
               <div>
-                {/* ✅ Handle both string (HS Code) and number (MOQ) */}
-                <p className="text-2xl sm:text-3xl md:text-4xl font-bold text-foreground break-all">
-                  {typeof card.value === 'string'
-                    ? card.value
-                    : card.value?.toLocaleString()}
+                <p className="text-sm font-semibold text-orange-700 dark:text-orange-300 mb-1">
+                  Size
                 </p>
-
-                {card.unit && (
-                  <p className="text-xs sm:text-sm text-gray-500 dark:text-gray-400 mt-1">
-                    {card.unit}
-                  </p>
-                )}
+                <p className="text-2xl md:text-3xl font-bold text-foreground">
+                  {size}
+                </p>
               </div>
             </div>
           </div>
-        )
-      })}
+        </div>
+      )}
     </div>
   )
 }
