@@ -9,8 +9,8 @@
     "mainMoq": 6,
     "hsCode": "6304.99.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 45,
+    "maxPrice": 60
   },
   {
     "id": "hnd-002",
@@ -22,8 +22,8 @@
     "mainMoq": 3,
     "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 12,
+    "maxPrice": 30
   },
   {
     "id": "hnd-003",
@@ -35,8 +35,8 @@
     "mainMoq": 4,
     "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 600
+    "minPrice": 12,
+    "maxPrice": 30
   },
   {
     "id": "hnd-004",
@@ -48,8 +48,8 @@
     "mainMoq": 2,
     "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1500
+    "minPrice": 30,
+    "maxPrice": 40
   },
   {
     "id": "hnd-005",
@@ -61,8 +61,8 @@
     "mainMoq": 3,
     "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 12,
+    "maxPrice": 25
   },
   {
     "id": "hnd-006",
@@ -74,8 +74,8 @@
     "mainMoq": 2,
     "hsCode": "4202.92.00",
     "orderType": "main",
-    "minPrice": 1500,
-    "maxPrice": 4000
+    "minPrice": 9,
+    "maxPrice": 30
   },
   {
     "id": "hnd-007",
@@ -87,8 +87,8 @@
     "mainMoq": 2,
     "hsCode": "4202.22.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 500
+    "minPrice": 6,
+    "maxPrice": 20
   },
   {
     "id": "hnd-008",
@@ -100,8 +100,8 @@
     "mainMoq": 8,
     "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 400
+    "minPrice": 10,
+    "maxPrice": 40
   },
   {
     "id": "hnd-009",
@@ -113,8 +113,8 @@
     "mainMoq": 3,
     "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1800
+    "minPrice": 21,
+    "maxPrice": 80
   },
   {
     "id": "hnd-010",
@@ -126,8 +126,8 @@
     "mainMoq": 6,
     "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 100,
-    "maxPrice": 300
+    "minPrice": 12,
+    "maxPrice": 25
   },
   {
     "id": "hnd-011",
@@ -139,8 +139,8 @@
     "mainMoq": 2,
     "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 600
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-012",
@@ -152,8 +152,8 @@
     "mainMoq": 4,
     "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1200
+    "minPrice": 30,
+    "maxPrice": 70
   },
   {
     "id": "hnd-013",
@@ -165,8 +165,8 @@
     "mainMoq": 6,
     "hsCode": "6913.90.00",
     "orderType": "main",
-    "minPrice": 180,
-    "maxPrice": 500
+    "minPrice": 24,
+    "maxPrice": 50
   },
   {
     "id": "hnd-014",
@@ -178,8 +178,8 @@
     "mainMoq": 5,
     "hsCode": "6913.90.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 76,
+    "maxPrice": 110
   },
   {
     "id": "hnd-015",
@@ -191,8 +191,8 @@
     "mainMoq": 4,
     "hsCode": "6912.00.10",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 12,
+    "maxPrice": 120
   },
   {
     "id": "hnd-016",
@@ -204,8 +204,8 @@
     "mainMoq": 3,
     "hsCode": "6913.90.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 12,
+    "maxPrice": 30
   },
   {
     "id": "hnd-017",
@@ -215,10 +215,10 @@
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "6912.00.10",
     "orderType": "main",
-    "minPrice": 280,
-    "maxPrice": 750
+    "minPrice": 27,
+    "maxPrice": 55
   },
   {
     "id": "hnd-018",
@@ -228,10 +228,10 @@
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "6913.90.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 42,
+    "maxPrice": 90
   },
   {
     "id": "hnd-019",
@@ -241,10 +241,10 @@
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "6913.90.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1600
+    "minPrice": 3,
+    "maxPrice": 25
   },
   {
     "id": "hnd-020",
@@ -254,10 +254,10 @@
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
     "mainMoq": 5,
-    "hsCode": "6304.99.00",
+    "hsCode": "6913.90.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 550
+    "minPrice": 6,
+    "maxPrice": 25
   },
   {
     "id": "hnd-021",
@@ -267,10 +267,10 @@
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "6913.90.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1000
+    "minPrice": 12,
+    "maxPrice": 25
   },
   {
     "id": "hnd-022",
@@ -280,10 +280,10 @@
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "6912.00.10",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 63,
+    "maxPrice": 90
   },
   {
     "id": "hnd-023",

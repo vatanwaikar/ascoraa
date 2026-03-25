@@ -11,7 +11,7 @@ export function PriceRange({ minPrice, maxPrice }: PriceRangeProps) {
   const formatPrice = (price: number) => {
     return new Intl.NumberFormat('en-IN', {
       style: 'currency',
-      currency: 'INR',
+      currency: 'USD',
       minimumFractionDigits: 0,
       maximumFractionDigits: 0,
     }).format(price)
