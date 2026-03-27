@@ -6,12 +6,12 @@
     "image": "/handicrafts/Applique_Bedsheet.webp",
     "description": "Beautiful applique bedsheets crafted with traditional techniques. Soft fabric and intricate patterns.",
     "sampleMoq": 1,
-    "mainMoq": 6,
+    "mainMoq": 500,
     "hsCode": "6304.99.00",
     "orderType": "main",
     "minPrice": 45,
     "maxPrice": 60,
-    "size": "4 inch"
+    "size": "90 x 108 inches / 228 x 274 cm"
   },
   {
     "id": "hnd-002",
@@ -20,7 +20,7 @@
     "image": "/handicrafts/Ashtray_With_Cigarette_Holder.webp",
     "description": "Authentic brass decorative pieces with intricate designs. Premium quality finish and durability.",
     "sampleMoq": 1,
-    "mainMoq": 3,
+    "mainMoq": 500,
     "hsCode": "4420.90.00",
     "orderType": "main",
     "minPrice": 12,
@@ -34,7 +34,7 @@
     "image": "/handicrafts/Ashtray_with_Cigarette_Storage_Case.webp",
     "description": "Authentic brass decorative pieces with intricate designs. Premium quality finish and durability.",
     "sampleMoq": 1,
-    "mainMoq": 4,
+    "mainMoq": 500,
     "hsCode": "4420.90.00",
     "orderType": "main",
     "minPrice": 12,
@@ -47,7 +47,7 @@
     "image": "/handicrafts/Autumn_Leaves_Bowl.png",
     "description": "Artistic handmade sculptures created by skilled artisans. Limited edition pieces with authentic craftsmanship.",
     "sampleMoq": 1,
-    "mainMoq": 2,
+    "mainMoq": 500,
     "hsCode": "4419.00.00",
     "orderType": "main",
     "minPrice": 30,
@@ -60,7 +60,7 @@
     "image": "/handicrafts/Avian_Charm_Platter.png",
     "description": "Authentic Indian artistic items representing cultural heritage. Traditional patterns and contemporary designs available.",
     "sampleMoq": 1,
-    "mainMoq": 3,
+    "mainMoq": 500,
     "hsCode": "4419.00.00",
     "orderType": "main",
     "minPrice": 12,
@@ -73,7 +73,7 @@
     "image": "/handicrafts/Banjara_Bag.png",
     "description": "Handmade bag crafted with traditional techniques. Durable fabric and intricate patterns.",
     "sampleMoq": 1,
-    "mainMoq": 2,
+    "mainMoq": 500,
     "hsCode": "4202.92.00",
     "orderType": "main",
     "minPrice": 9,
@@ -86,7 +86,7 @@
     "image": "/handicrafts/Banjara_Clutch_Bag.webp",
     "description": "Handmade clutch bag crafted with traditional techniques. Durable fabric and intricate patterns.",
     "sampleMoq": 1,
-    "mainMoq": 2,
+    "mainMoq": 500,
     "hsCode": "4202.22.00",
     "orderType": "main",
     "minPrice": 6,
@@ -99,7 +99,7 @@
     "image": "/handicrafts/Berry_Citrus_Bowl.png",
     "description": "Traditional clay pottery items handmade by experienced potters. Suitable for decorative and functional purposes.",
     "sampleMoq": 1,
-    "mainMoq": 8,
+    "mainMoq": 500,
     "hsCode": "4419.00.00",
     "orderType": "main",
     "minPrice": 10,
@@ -112,7 +112,7 @@
     "image": "/handicrafts/Berry_Patch_Platter.png",
     "description": "Hand-carved stone artifacts featuring intricate details. Premium marble and stone quality.",
     "sampleMoq": 1,
-    "mainMoq": 3,
+    "mainMoq": 500,
     "hsCode": "4419.00.00",
     "orderType": "main",
     "minPrice": 21,
@@ -138,7 +138,7 @@
     "image": "/handicrafts/Blossom_Birds_Stool.png",
     "description": "Handmade stool featuring intricate bird designs. Perfect for adding a touch of nature to your space.",
     "sampleMoq": 1,
-    "mainMoq": 2,
+    "mainMoq": 500,
     "hsCode": "9401.69.00",
     "orderType": "main",
     "minPrice": 45,
@@ -151,7 +151,7 @@
     "image": "/handicrafts/Blue_Floral_Salad_Bowl.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailingx.",
     "sampleMoq": 1,
-    "mainMoq": 4,
+    "mainMoq": 500,
     "hsCode": "4419.00.00",
     "orderType": "main",
     "minPrice": 30,
@@ -164,7 +164,7 @@
     "image": "/handicrafts/Blue_Pottery_Aroma_Oil_Diffuser.png",
     "description": "Hand-decorated storage boxes combining beauty with functionality. Perfect for organizing and gifting.",
     "sampleMoq": 1,
-    "mainMoq": 6,
+    "mainMoq": 500,
     "hsCode": "6913.90.00",
     "orderType": "main",
     "minPrice": 24,
@@ -177,7 +177,7 @@
     "image": "/handicrafts/Blue_Pottery_Bottle_Vase.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 5,
+    "mainMoq": 500,
     "hsCode": "6913.90.00",
     "orderType": "main",
     "minPrice": 76,
@@ -190,7 +190,7 @@
     "image": "/handicrafts/Blue_Pottery_Bowls.webp",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 4,
+    "mainMoq": 500,
     "hsCode": "6912.00.10",
     "orderType": "main",
     "minPrice": 12,
@@ -203,7 +203,7 @@
     "image": "/handicrafts/Blue_Pottery_Candle_Holder.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 3,
+    "mainMoq": 500,
     "hsCode": "6913.90.00",
     "orderType": "main",
     "minPrice": 12,
@@ -216,7 +216,7 @@
     "image": "/handicrafts/Blue_Pottery_Coasters.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 3,
+    "mainMoq": 500,
     "hsCode": "6912.00.10",
     "orderType": "main",
     "minPrice": 27,
@@ -229,7 +229,7 @@
     "image": "/handicrafts/Blue_Pottery_Cylinder_Shape_Vase.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 4,
+    "mainMoq": 500,
     "hsCode": "6913.90.00",
     "orderType": "main",
     "minPrice": 42,
@@ -242,7 +242,7 @@
     "image": "/handicrafts/Blue_Pottery_Diya.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 2,
+    "mainMoq": 500,
     "hsCode": "6913.90.00",
     "orderType": "main",
     "minPrice": 3,
@@ -255,7 +255,7 @@
     "image": "/handicrafts/Blue_Pottery_Fridge_Magnets.webp",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 5,
+    "mainMoq": 500,
     "hsCode": "6913.90.00",
     "orderType": "main",
     "minPrice": 6,
@@ -268,7 +268,7 @@
     "image": "/handicrafts/Blue_Pottery_Glass_Pen_Stand.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 3,
+    "mainMoq": 500,
     "hsCode": "6913.90.00",
     "orderType": "main",
     "minPrice": 12,
@@ -281,7 +281,7 @@
     "image": "/handicrafts/Blue_Pottery_Handi.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 4,
+    "mainMoq": 500,
     "hsCode": "6912.00.10",
     "orderType": "main",
     "minPrice": 63,
@@ -307,11 +307,11 @@
     "image": "/handicrafts/Blue_Pottery_Jars.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "6912.00.10",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 400
+    "minPrice": 27,
+    "maxPrice": 55
   },
   {
     "id": "hnd-025",
@@ -333,11 +333,11 @@
     "image": "/handicrafts/Blue_Pottery_Plates.webp",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "6912.00.10",
     "orderType": "main",
-    "minPrice": 180,
-    "maxPrice": 500
+    "minPrice": 12,
+    "maxPrice": 10
   },
   {
     "id": "hnd-027",
@@ -346,11 +346,11 @@
     "image": "/handicrafts/Blue_Pottery_Round_Tray.webp",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "6912.00.10",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 950
+    "minPrice": 33,
+    "maxPrice": 90
   },
   {
     "id": "hnd-028",
@@ -359,11 +359,11 @@
     "image": "/handicrafts/Blue_Pottery_Soap_Dispenser.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "6912.00.10",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1400
+    "minPrice": 24,
+    "maxPrice": 40
   },
   {
     "id": "hnd-029",
@@ -372,11 +372,11 @@
     "image": "/handicrafts/Blue_Pottery_Thali.webp",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "6912.00.10",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1100
+    "minPrice": 33,
+    "maxPrice": 70
   },
   {
     "id": "hnd-030",
@@ -385,11 +385,11 @@
     "image": "/handicrafts/Blue_Pottery_Tray.webp",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "6912.00.10",
     "orderType": "main",
-    "minPrice": 220,
-    "maxPrice": 650
+    "minPrice": 19,
+    "maxPrice": 45
   },
   {
     "id": "hnd-031",
@@ -398,11 +398,11 @@
     "image": "/handicrafts/Blue_Pottery_Vase.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "6913.90.00",
     "orderType": "main",
-    "minPrice": 2000,
-    "maxPrice": 5000
+    "minPrice": 24,
+    "maxPrice": 50
   },
   {
     "id": "hnd-032",
@@ -424,11 +424,11 @@
     "image": "/handicrafts/Bluebirds_Stool.png",
     "description": "Handmade stool with a unique bluebird design. Comfortable and aesthetically pleasing.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-034",
@@ -437,11 +437,11 @@
     "image": "/handicrafts/Blush_Petal_Bowl.png",
     "description": "Hand-painted ceramic pieces with a delicate blush petal design. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1900
+    "minPrice": 30,
+    "maxPrice": 70
   },
   {
     "id": "hnd-035",
@@ -451,10 +451,10 @@
     "description": "Hand-carved stone artifacts featuring intricate details. Premium marble and stone quality.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.10.00",
     "orderType": "main",
-    "minPrice": 1200,
-    "maxPrice": 3000
+    "minPrice": 12,
+    "maxPrice": 30
   },
   {
     "id": "hnd-036",
@@ -463,11 +463,11 @@
     "image": "/handicrafts/Cherry_Bloom_Bowl.png",
     "description": "Hand-painted ceramic pieces with a delicate cherry bloom design. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 2000,
-    "maxPrice": 5500
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-037",
@@ -476,11 +476,11 @@
     "image": "/handicrafts/Cherry_Bloom_Stool.png",
     "description": "Handmade stool with a unique cherry bloom design. Comfortable and aesthetically pleasing.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 1500,
-    "maxPrice": 4000
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-038",
@@ -489,11 +489,11 @@
     "image": "/handicrafts/Cherry_Scoop_Platter.png",
     "description": "Hand-painted ceramic pieces with a delicate cherry scoop design. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2100
+    "minPrice": 12,
+    "maxPrice": 25
   },
   {
     "id": "hnd-039",
@@ -503,10 +503,10 @@
     "description": "Handmade coordination set with intricate chikankari work. Premium quality cotton fabric.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "NA",
     "orderType": "main",
-    "minPrice": 550,
-    "maxPrice": 1400
+    "minPrice": 22,
+    "maxPrice": 100
   },
   {
     "id": "hnd-040",
@@ -516,10 +516,10 @@
     "description": "Handmade saree with intricate chikankari work. Premium quality cotton fabric.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "NA",
     "orderType": "main",
-    "minPrice": 1000,
-    "maxPrice": 2800
+    "minPrice": 120,
+    "maxPrice": 190
   },
   {
     "id": "hnd-041",
@@ -529,10 +529,10 @@
     "description": "Handmade gown set with intricate chikankari work. Premium quality cotton fabric.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "NA",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 600
+    "minPrice": 143,
+    "maxPrice": 200
   },
   {
     "id": "hnd-042",
@@ -541,11 +541,11 @@
     "image": "/handicrafts/Citrine_Glow_Bowl.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 6,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 27,
+    "maxPrice": 60
   },
   {
     "id": "hnd-043",
@@ -554,11 +554,11 @@
     "image": "/handicrafts/Citrus_Grove_Bowl.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 8,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 80,
-    "maxPrice": 250
+    "minPrice": 30,
+    "maxPrice": 40
   },
   {
     "id": "hnd-044",
@@ -567,11 +567,11 @@
     "image": "/handicrafts/Citrus_Grove_Cake_Stand.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 5,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 30,
+    "maxPrice": 60
   },
   {
     "id": "hnd-045",
@@ -580,11 +580,11 @@
     "image": "/handicrafts/Citrus_Grove_Stool.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-046",
@@ -593,11 +593,11 @@
     "image": "/handicrafts/Classic_Snack_Bowls_Set_of_6.webp",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 850
+    "minPrice": 12,
+    "maxPrice": 35
   },
   {
     "id": "hnd-047",
@@ -606,11 +606,11 @@
     "image": "/handicrafts/Coin_Shape_Incense_Holder.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 3,
+    "maxPrice": 10
   },
   {
     "id": "hnd-048",
@@ -619,11 +619,11 @@
     "image": "/handicrafts/Cooking_Spoon_With_Masher.webp  ",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2000
+    "minPrice": 6,
+    "maxPrice": 30
   },
   {
     "id": "hnd-049",
@@ -632,11 +632,11 @@
     "image": "/handicrafts/Coral_Bloom_Cake_Stand.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 10,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 100,
-    "maxPrice": 300
+    "minPrice": 30,
+    "maxPrice": 60
   },
   {
     "id": "hnd-050",
@@ -645,11 +645,11 @@
     "image": "/handicrafts/Coral_Bloom_Pizza_Platter.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1100
+    "minPrice": 27,
+    "maxPrice": 90
   },
   {
     "id": "hnd-051",
