@@ -131,7 +131,7 @@ export default function AccessibilityPage() {
                 If you encounter accessibility barriers or have suggestions for improvement, please contact us:
               </p>
               <div className="bg-muted p-4 rounded-lg mb-4">
-                <p><strong>Email:</strong> accessibility@ascora.com</p>
+                <p><strong>Email:</strong> shashikantt@ascora.in</p>
                 <p><strong>Phone:</strong> +91 98765 43210 (Accessible support line)</p>
                 <p><strong>Subject:</strong> Accessibility Feedback</p>
               </div>

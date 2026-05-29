@@ -125,7 +125,7 @@
     "image": "/handicrafts/Bloom_Handle_Platter.png",
     "description": "Eco-friendly bamboo handicrafts supporting sustainable practices. Lightweight and durable.",
     "sampleMoq": 1,
-    "mainMoq": 6,
+    "mainMoq": 500,
     "hsCode": "4419.00.00",
     "orderType": "main",
     "minPrice": 12,
@@ -337,7 +337,7 @@
     "hsCode": "6912.00.10",
     "orderType": "main",
     "minPrice": 12,
-    "maxPrice": 10
+    "maxPrice": 100
   },
   {
     "id": "hnd-027",
@@ -531,7 +531,7 @@
     "mainMoq": 3,
     "hsCode": "NA",
     "orderType": "main",
-    "minPrice": 143,
+    "minPrice": 134,
     "maxPrice": 200
   },
   {
@@ -658,7 +658,7 @@
     "image": "/handicrafts/Cotton_Bag_Zardozari_Sample_Kit.webp",
     "description": "A set of handmade cotton bags and Zardozari embroidery samples.",
     "sampleMoq": 1,
-    "mainMoq": 1,
+    "mainMoq": 500,
     "hsCode": "6304.99.00",
     "orderType": "main",
     "minPrice": 1500,
@@ -671,11 +671,11 @@
     "image": "/handicrafts/Crimson_Garden_Bowl.webp",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1500
+    "minPrice": 24,
+    "maxPrice": 50
   },
   {
     "id": "hnd-053",
@@ -684,11 +684,11 @@
     "image": "/handicrafts/Cylindrical_Money_Bank.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 950
+    "minPrice": 9,
+    "maxPrice": 35
   },
   {
     "id": "hnd-054",
@@ -697,11 +697,11 @@
     "image": "/handicrafts/Daisy_Delight_Bowl.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 450,
-    "maxPrice": 1200
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-055",
@@ -710,11 +710,11 @@
     "image": "/handicrafts/Daisy_Mosaic_Bowl.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1800
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-056",
@@ -723,11 +723,11 @@
     "image": "/handicrafts/Daisy_Scoop_Platter.png",
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 12,
+    "maxPrice": 25
   },
   {
     "id": "hnd-057",
@@ -736,11 +736,11 @@
     "image": "/handicrafts/Door_Hanger.png",
     "description": "Handmade textiles with traditional embroidery. Beautiful patterns representing cultural heritage.",
     "sampleMoq": 1,
-    "mainMoq": 3,
+    "mainMoq": 500,
     "hsCode": "6304.99.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1000
+    "minPrice": 15,
+    "maxPrice": 30
   },
   {
     "id": "hnd-058",
@@ -749,11 +749,11 @@
     "image": "/handicrafts/Duffle_Bag.webp",
     "description": "Handmade textiles with traditional embroidery. Beautiful patterns representing cultural heritage.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4202.92.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1500
+    "minPrice": 18,
+    "maxPrice": 60
   },
   {
     "id": "hnd-059",
@@ -762,11 +762,11 @@
     "image": "/handicrafts/Elephant_Design_Key_Hanger.png",
     "description": "Handmade key hanger with an elephant design. Perfect for adding a touch of culture to your keys.",
     "sampleMoq": 1,
-    "mainMoq": 5,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 3,
+    "maxPrice": 15
   },
   {
     "id": "hnd-060",
@@ -775,11 +775,11 @@
     "image": "/handicrafts/Elephant_Wall_Hanging.webp",
     "description": "Handmade wall hanging with an elephant design. Perfect for adding a touch of culture to your space.",
     "sampleMoq": 1,
-    "mainMoq": 2,
+    "mainMoq": 500,
     "hsCode": "6304.99.00",
     "orderType": "main",
-    "minPrice": 180,
-    "maxPrice": 500
+    "minPrice": 21,
+    "maxPrice": 45
   },
   {
     "id": "hnd-061",
@@ -788,11 +788,11 @@
     "image": "/handicrafts/File_Clutch_Purse.webp",
     "description": "Handmade clutch purse with a file design. Perfect for carrying your essentials in style.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4202.22.00",
     "orderType": "main",
-    "minPrice": 50,
-    "maxPrice": 150
+    "minPrice": 9,
+    "maxPrice": 20
   },
   {
     "id": "hnd-062",
@@ -801,11 +801,11 @@
     "image": "/handicrafts/Flora_Mosaic_Cake_Stand.webp",
     "description": "Handmade cake stand with a flora mosaic design. Perfect for adding a touch of nature to your dining table.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 30,
+    "maxPrice": 60
   },
   {
     "id": "hnd-063",
@@ -814,11 +814,11 @@
     "image": "/handicrafts/Floral_Bloom_Bowl.png",
     "description": "Hand-painted ceramic pieces with floral patterns. Perfect for adding a touch of nature to your dining table.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 550
+    "minPrice": 30,
+    "maxPrice": 40
   },
   {
     "id": "hnd-064",
@@ -827,11 +827,11 @@
     "image": "/handicrafts/Floral_Fantasy_Bowl.png",
     "description": "Hand-painted ceramic pieces with floral patterns. Perfect for adding a touch of nature to your dining table.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 650
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-065",
@@ -840,11 +840,11 @@
     "image": "/handicrafts/Floral_Stool.png",
     "description": "Handmade stool with floral patterns. Perfect for adding a touch of nature to your living space.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-066",
@@ -853,11 +853,11 @@
     "image": "/handicrafts/GeoTop_Stool.png",
     "description": "Modern stool with a unique geometric design. Perfect for adding a touch of contemporary style to your living space.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 280,
-    "maxPrice": 750
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-067",
@@ -866,11 +866,11 @@
     "image": "/handicrafts/Golden_Bloom_Serveware.png",
     "description": "Elegant serveware with a golden bloom design. Perfect for adding a touch of luxury to your dining table.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1100
+    "minPrice": 12,
+    "maxPrice": 25
   },
   {
     "id": "hnd-068",
@@ -879,12 +879,12 @@
     "image": "/handicrafts/Golden_Finch_Cake_Stand.webp",
     "description": "Elegant cake stand with a golden Finch design. Perfect for adding a touch of luxury to your dining table.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1400
-  }, 
+    "minPrice": 30,
+    "maxPrice": 60
+  },
   {
     "id": "hnd-069",
     "name": "Golden Scroll Cake Stand",
@@ -892,11 +892,11 @@
     "image": "/handicrafts/Golden_Scroll_Cake_Stand.webp",
     "description": "Elegant cake stand with a golden scroll design. Perfect for adding a touch of luxury to your dining table.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1600
+    "minPrice": 30,
+    "maxPrice": 60
   },
   {
     "id": "hnd-070",
@@ -905,11 +905,11 @@
     "image": "/handicrafts/Hand_Block_Geo_Leaf.webp",
     "description": "Hand-blocked textile with a geometric leaf pattern. Beautiful and unique design.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 220,
-    "maxPrice": 600
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-071",
@@ -918,11 +918,11 @@
     "image": "/handicrafts/Hand_Block_Olive_Indigo_Bloom.webp",
     "description": "Hand-blocked textile with a beautiful olive and indigo bloom pattern. Beautiful and unique design.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 1200,
-    "maxPrice": 3000
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-072",
@@ -931,11 +931,11 @@
     "image": "/handicrafts/Hand_Pouch_Purse.webp",
     "description": "Handmade pouch with traditional embroidery. Beautiful patterns representing cultural heritage.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4202.92.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 6,
+    "maxPrice": 23
   },
   {
     "id": "hnd-073",
@@ -944,11 +944,11 @@
     "image": "/handicrafts/HandBlock_Berry_Twig.webp",
     "description": "Hand-blocked textile with a beautiful berry twig pattern. Beautiful and unique design.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1000
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-074",
@@ -957,11 +957,11 @@
     "image": "/handicrafts/HandBlock_Blossom_Trail.webp",
     "description": "Hand-blocked textile with a beautiful blossom trail pattern. Beautiful and unique design.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-075",
@@ -970,11 +970,11 @@
     "image": "/handicrafts/HandBlock_Blue_Blossom.webp",
     "description": "Hand-blocked textile with a beautiful blue blossom pattern. Beautiful and unique design.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 100,
-    "maxPrice": 300
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-076",
@@ -983,11 +983,11 @@
     "image": "/handicrafts/HandBlock_Buti_Floral.webp",
     "description": "Hand-blocked textile with a beautiful buti floral pattern. Beautiful and unique design.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-077",
@@ -996,11 +996,11 @@
     "image": "/handicrafts/HandBlock_Creeper_Floral.webp",
     "description": "Hand-blocked textile with a beautiful creeper floral pattern. Beautiful and unique design.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 550
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-078",
@@ -1009,11 +1009,11 @@
     "image": "/handicrafts/HandBlock_Fern_Bloom.webp",
     "description": "Hand-blocked textile with a beautiful fern bloom pattern. Beautiful and unique design.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 5,
+    "maxPrice": 20
   },
   {
     "id": "hnd-079",
@@ -1022,11 +1022,11 @@
     "image": "/handicrafts/HandBlock_Floral_Vine.webp",
     "description": "Hand-blocked textile with a beautiful floral vine pattern. Beautiful and unique design.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-080",
@@ -1035,11 +1035,11 @@
     "image": "/handicrafts/HandBlock_Hibiscus_Trail.webp",
     "description": "Hand-blocked textile with a beautiful hibiscus trail pattern. Beautiful and unique design.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-081",
@@ -1049,10 +1049,10 @@
     "description": "Hand-blocked textile with a beautiful indigo vine pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 100,
-    "maxPrice": 300
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-082",
@@ -1062,10 +1062,10 @@
     "description": "Hand-blocked textile with a beautiful lotus bud pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 180,
-    "maxPrice": 500
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-083",
@@ -1075,10 +1075,10 @@
     "description": "Hand-blocked textile with a beautiful lotus cluster pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 650
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-084",
@@ -1088,10 +1088,10 @@
     "description": "Hand-blocked textile with a beautiful paisley bloom pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-085",
@@ -1101,10 +1101,10 @@
     "description": "Handmade ceramic bowl with a beautiful indigo bloom pattern. Perfect for home decoration.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 24,
+    "maxPrice": 50
   },
   {
     "id": "hnd-086",
@@ -1114,10 +1114,10 @@
     "description": "Hand-blocked textile with a beautiful poppy curl pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2200
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-087",
@@ -1127,10 +1127,10 @@
     "description": "Hand-blocked textile with a beautiful rosette vine pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1100
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-088",
@@ -1140,10 +1140,10 @@
     "description": "Hand-blocked textile with a beautiful spiked paisley pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 1000,
-    "maxPrice": 2700
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-089",
@@ -1153,10 +1153,10 @@
     "description": "Hand-blocked textile with a beautiful striped bloom pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1600
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-090",
@@ -1166,10 +1166,10 @@
     "description": "Hand-blocked textile with a beautiful sunburst floral pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 1200,
-    "maxPrice": 3200
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-091",
@@ -1179,10 +1179,10 @@
     "description": "Hand-blocked textile with a beautiful tile trellis pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-092",
@@ -1192,10 +1192,10 @@
     "description": "Hand-blocked textile with a beautiful trumpet bloom pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-093",
@@ -1205,10 +1205,10 @@
     "description": "Hand-blocked textile with a beautiful tulip jaal pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1000
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-094",
@@ -1218,10 +1218,10 @@
     "description": "Hand-blocked textile with a beautiful twining bloom pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 280,
-    "maxPrice": 750
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-095",
@@ -1231,10 +1231,10 @@
     "description": "Hand-blocked textile with a beautiful wave dots pattern. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "5208.52.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1100
+    "minPrice": 7,
+    "maxPrice": 20
   },
   {
     "id": "hnd-096",
@@ -1246,8 +1246,8 @@
     "mainMoq": 2,
     "hsCode": "6304.99.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1600
+    "minPrice": 78,
+    "maxPrice": 150
   },
   {
     "id": "hnd-097",
@@ -1257,10 +1257,10 @@
     "description": "Handmade kantha with intricate embroidery. Beautiful and unique design.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "6301.30.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1900
+    "minPrice": 51,
+    "maxPrice": 80
   },
   {
     "id": "hnd-098",
@@ -1270,10 +1270,10 @@
     "description": "Hand-carved bone artifacts with intricate inlay. Premium quality and traditional craftsmanship.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1100
+    "minPrice": 30,
+    "maxPrice": 60
   },
   {
     "id": "hnd-099",
@@ -1283,10 +1283,10 @@
     "description": "Hand-carved bone artifacts with intricate inlay. Premium quality and traditional craftsmanship.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 21,
+    "maxPrice": 80
   },
   {
     "id": "hnd-100",
@@ -1296,10 +1296,10 @@
     "description": "Handmade textiles with traditional dyeing techniques. Unique patterns and colors.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1800
+    "minPrice": 9,
+    "maxPrice": 30
   },
   {
     "id": "hnd-101",
@@ -1308,11 +1308,11 @@
     "image": "/handicrafts/Monochrome_Illusion_Cake_Stand.png",
     "description": "Elegant handcrafted bowl featuring an indigo bloom pattern. Ideal for serving or decorative use with a premium artisanal finish.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1400
+    "minPrice": 30,
+    "maxPrice": 60
   },
   {
     "id": "hnd-102",
@@ -1322,10 +1322,10 @@
     "description": "Stylish cake stand with intricate indigo mosaic design. Perfect for presenting desserts with a refined handcrafted touch.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 30,
+    "maxPrice": 60
   },
   {
     "id": "hnd-103",
@@ -1335,10 +1335,10 @@
     "description": "Minimalist ivory-toned bowl with a soft mist finish. Ideal for modern dining and elegant home décor settings.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2100
+    "minPrice": 27,
+    "maxPrice": 60
   },
   {
     "id": "hnd-104",
@@ -1347,11 +1347,11 @@
     "image": "/handicrafts/Kantha_Bedcover_Quilt.webp",
     "description": "Hand-stitched Kantha quilt showcasing traditional craftsmanship. Perfect for adding warmth and cultural charm to bedrooms.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "6301.30.00",
     "orderType": "main",
-    "minPrice": 1500,
-    "maxPrice": 4000
+    "minPrice": 45,
+    "maxPrice": 80
   },
   {
     "id": "hnd-105",
@@ -1361,10 +1361,10 @@
     "description": "Durable and stylish laptop sleeves crafted with ethnic patterns. Designed to protect devices while enhancing everyday style.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4202.92.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1900
+    "minPrice": 9,
+    "maxPrice": 25
   },
   {
     "id": "hnd-106",
@@ -1374,10 +1374,10 @@
     "description": "Fresh and vibrant lemon-inspired bowl design. Perfect for serving or brightening up kitchen and dining spaces.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 600
+    "minPrice": 30,
+    "maxPrice": 70
   },
   {
     "id": "hnd-107",
@@ -1389,8 +1389,8 @@
     "mainMoq": 4,
     "hsCode": "6304.99.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 50,
+    "maxPrice": 120
   },
   {
     "id": "hnd-108",
@@ -1400,10 +1400,10 @@
     "description": "Artistic stool featuring lotus meadow-inspired patterns. Ideal as a decorative accent or functional seating piece.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1100
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-109",
@@ -1413,10 +1413,10 @@
     "description": "Graceful magnolia-inspired bowl with a soft mist finish. Adds sophistication to dining and décor setups.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 30,
+    "maxPrice": 70
   },
   {
     "id": "hnd-110",
@@ -1425,11 +1425,11 @@
     "image": "/handicrafts/Mandala_Bloom_Stool.png",
     "description": "Decorative stool featuring intricate mandala bloom artwork. A perfect blend of tradition and modern utility.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2100
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-111",
@@ -1438,11 +1438,11 @@
     "image": "/handicrafts/Mandala_Stool.png",
     "description": "Handcrafted stool with detailed mandala patterns. Suitable for both décor enhancement and functional use.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-112",
@@ -1451,11 +1451,11 @@
     "image": "/handicrafts/Matka_Jhola_Bag.png",
     "description": "Traditional jhola bag inspired by matka motifs. Lightweight, eco-friendly, and perfect for everyday use.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4202.92.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1400
+    "minPrice": 9,
+    "maxPrice": 35
   },
   {
     "id": "hnd-113",
@@ -1464,11 +1464,11 @@
     "image": "/handicrafts/Midnight_Bloom_Bowl.png",
     "description": "Dark-toned bowl with elegant midnight bloom design. Ideal for premium table settings and gifting.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1900
+    "minPrice": 30,
+    "maxPrice": 70
   },
   {
     "id": "hnd-114",
@@ -1477,11 +1477,11 @@
     "image": "/handicrafts/Midnight_Garden_Bowl.png",
     "description": "Sophisticated bowl inspired by a midnight garden theme. Enhances dining aesthetics with a rich visual appeal.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1000
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-115",
@@ -1490,11 +1490,11 @@
     "image": "/handicrafts/Midnight_Paisley_Cake_Stand.png",
     "description": "Premium cake stand featuring intricate midnight paisley artwork. Perfect for elegant dessert presentation.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2100
+    "minPrice": 30,
+    "maxPrice": 60
   },
   {
     "id": "hnd-116",
@@ -1503,11 +1503,11 @@
     "image": "/handicrafts/Mint_Mist_Bowl.png",
     "description": "Refreshing mint-toned bowl with a soft mist finish. Ideal for contemporary dining and décor styling.",
     "sampleMoq": 1,
-    "mainMoq": 6,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 27,
+    "maxPrice": 60
   },
   {
     "id": "hnd-117",
@@ -1516,11 +1516,11 @@
     "image": "/handicrafts/Money_Bank.webp",
     "description": "Classic handcrafted money bank designed for both utility and decorative appeal. Suitable for gifting.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 9,
+    "maxPrice": 40
   },
   {
     "id": "hnd-118",
@@ -1529,11 +1529,11 @@
     "image": "/handicrafts/Money_Bank_Water_Tank_Shape.webp",
     "description": "Unique water tank-shaped money bank with a creative handcrafted design. Ideal for kids and novelty gifting.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1500
+    "minPrice": 6,
+    "maxPrice": 30
   },
   {
     "id": "hnd-119",
@@ -1543,10 +1543,10 @@
     "description": "Handmade bowl with a monochrome leaf design. Perfect for contemporary dining and décor styling.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-120",
@@ -1555,11 +1555,11 @@
     "image": "/handicrafts/Monochrome_Leaf_Bowl.png",
     "description": "Handmade bowl with a monochrome leaf design. Perfect for contemporary dining and décor styling.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-121",
@@ -1569,10 +1569,10 @@
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1500
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-122",
@@ -1581,11 +1581,11 @@
     "image": "/handicrafts/Monochrome_Leaf_Platter.png",
     "description": "Handmade platter with a monochrome leaf design. Perfect for contemporary dining and décor styling.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 2500,
-    "maxPrice": 6000
+    "minPrice": 21,
+    "maxPrice": 80
   },
   {
     "id": "hnd-123",
@@ -1594,11 +1594,11 @@
     "image": "/handicrafts/Monochrome_Leaf_Stool.png",
     "description": "Handmade stool with a monochrome leaf design. Perfect for contemporary dining and décor styling.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 3000,
-    "maxPrice": 7500
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-124",
@@ -1607,11 +1607,11 @@
     "image": "/handicrafts/Monochrome_Pizza_Platter.png",
     "description": "Handmade platter with a monochrome pizza design. Perfect for contemporary dining and décor styling.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 2000,
-    "maxPrice": 5000
+    "minPrice": 27,
+    "maxPrice": 90
   },
   {
     "id": "hnd-125",
@@ -1621,10 +1621,10 @@
     "description": "Handmade bowl with a retro salad design. Perfect for contemporary dining and décor styling.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 2200,
-    "maxPrice": 5500
+    "minPrice": 24,
+    "maxPrice": 50
   },
   {
     "id": "hnd-126",
@@ -1633,11 +1633,11 @@
     "image": "/handicrafts/Mosaic_Slice_Pizza_Platter.webp",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 10,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 27,
+    "maxPrice": 90
   },
   {
     "id": "hnd-127",
@@ -1646,11 +1646,11 @@
     "image": "/handicrafts/Moti_Work_Wall_Hanging.webp",
     "description": "Handmade items representing traditional festival decorations. Perfect for celebrations.",
     "sampleMoq": 1,
-    "mainMoq": 6,
+    "mainMoq": 500,
     "hsCode": "6304.99.00",
     "orderType": "main",
-    "minPrice": 140,
-    "maxPrice": 400
+    "minPrice": 24,
+    "maxPrice": 50
   },
   {
     "id": "hnd-128",
@@ -1660,10 +1660,10 @@
     "description": "Handmade items representing traditional festival decorations. Perfect for celebrations.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 30,
+    "maxPrice": 70
   },
   {
     "id": "hnd-129",
@@ -1672,11 +1672,11 @@
     "image": "/handicrafts/Mughal_Garden_Cake_Stand.png",
     "description": "Traditional clay pottery items handmade by experienced potters. Suitable for decorative and functional purposes.",
     "sampleMoq": 1,
-    "mainMoq": 12,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
     "minPrice": 30,
-    "maxPrice": 100
+    "maxPrice": 60
   },
   {
     "id": "hnd-130",
@@ -1685,11 +1685,11 @@
     "image": "/handicrafts/Multipurpose_Serving_Bowl.webp",
     "description": "Handmade ceramic items with practical and aesthetic appeal. Perfect for everyday use.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 100,
-    "maxPrice": 300
+    "minPrice": 3,
+    "maxPrice": 15
   },
   {
     "id": "hnd-131",
@@ -1698,11 +1698,11 @@
     "image": "/handicrafts/Nose_Shaped_Specs_Holder.png",
     "description": "Handmade holder designed to keep specs safe and easily accessible.",
     "sampleMoq": 1,
-    "mainMoq": 6,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 3,
+    "maxPrice": 30
   },
   {
     "id": "hnd-132",
@@ -1711,11 +1711,11 @@
     "image": "/handicrafts/Nud_Shaped_Specs_Holder.png",
     "description": "Handmade holder designed to keep specs safe and easily accessible.",
     "sampleMoq": 1,
-    "mainMoq": 6,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 3,
+    "maxPrice": 30
   },
   {
     "id": "hnd-133",
@@ -1724,11 +1724,11 @@
     "image": "/handicrafts/Ocean_Bloom_Platter.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1000
+    "minPrice": 21,
+    "maxPrice": 80
   },
   {
     "id": "hnd-134",
@@ -1737,11 +1737,11 @@
     "image": "/handicrafts/Ocean_Drift_Bowl.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1100
+    "minPrice": 27,
+    "maxPrice": 60
   },
   {
     "id": "hnd-135",
@@ -1750,11 +1750,11 @@
     "image": "/handicrafts/Peach_cotton_chikankari.png",
     "description": "Handmade traditional attire with intricate embroidery. Perfect for festive occasions.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "NA",
     "orderType": "main",
-    "minPrice": 1000,
-    "maxPrice": 2700
+    "minPrice": 113,
+    "maxPrice": 185
   },
   {
     "id": "hnd-136",
@@ -1763,11 +1763,11 @@
     "image": "/handicrafts/Pearl_Bloom_Stool.png",
     "description": "Handmade seating piece with a unique pearl-inspired design. Perfect for adding a touch of elegance to any room.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1500
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-137",
@@ -1776,11 +1776,11 @@
     "image": "/handicrafts/Pearl_Work_Chikankari_Saree.png",
     "description": "Handmade saree with intricate pearl work and traditional chikankari embroidery.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "NA",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 288,
+    "maxPrice": 350
   },
   {
     "id": "hnd-138",
@@ -1789,11 +1789,11 @@
     "image": "/handicrafts/Pen_Holder_With_Clock.png",
     "description": "Handmade stationery item with a unique clock design. Perfect for organizing your workspace.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 6,
+    "maxPrice": 25
   },
   {
     "id": "hnd-139",
@@ -1802,11 +1802,11 @@
     "image": "/handicrafts/Pen_Holder_With_Drawer.png",
     "description": "Handmade stationery item with a practical drawer design. Perfect for organizing your workspace.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1800
+    "minPrice": 9,
+    "maxPrice": 30
   },
   {
     "id": "hnd-140",
@@ -1815,11 +1815,11 @@
     "image": "/handicrafts/Peony_Garden_Bowl.png",
     "description": "Handmade ceramics with beautiful floral designs. Perfect for adding a touch of nature to your home.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2100
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-141",
@@ -1828,11 +1828,11 @@
     "image": "/handicrafts/Pink_Blossom_Bowl.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 30,
+    "maxPrice": 40
   },
   {
     "id": "hnd-142",
@@ -1841,11 +1841,11 @@
     "image": "/handicrafts/Pink_Lily_Platter.png",
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 180,
-    "maxPrice": 500
+    "minPrice": 21,
+    "maxPrice": 80
   },
   {
     "id": "hnd-143",
@@ -1854,11 +1854,11 @@
     "image": "/handicrafts/Puff_Cover.webp",
     "description": "Handmade decorative covers for pillows and cushions.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9404.90.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 650
+    "minPrice": 12,
+    "maxPrice": 40
   },
   {
     "id": "hnd-144",
@@ -1867,11 +1867,11 @@
     "image": "/handicrafts/Georgette_Chikankari_Kurta_Pink.png",
     "description": "Handmade traditional attire with intricate embroidery. Perfect for festive occasions.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "NA",
     "orderType": "main",
-    "minPrice": 450,
-    "maxPrice": 1200
+    "minPrice": 50,
+    "maxPrice": 120
   },
   {
     "id": "hnd-145",
@@ -1881,10 +1881,10 @@
     "description": "Eco-friendly bamboo handicrafts supporting sustainable practices. Lightweight and durable.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 12,
+    "maxPrice": 30
   },
   {
     "id": "hnd-146",
@@ -1893,11 +1893,11 @@
     "image": "/handicrafts/Pure_White_Chikankari_Kurta.png",
     "description": "Handmade traditional attire with intricate embroidery. Perfect for festive occasions.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "NA",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 56,
+    "maxPrice": 130
   },
   {
     "id": "hnd-147",
@@ -1906,11 +1906,11 @@
     "image": "/handicrafts/Rattan_Leaf_Stool.png",
     "description": "Eco-friendly natural fiber handicrafts. Sustainable and biodegradable products.",
     "sampleMoq": 1,
-    "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-148",
@@ -1919,11 +1919,11 @@
     "image": "/handicrafts/Retro_Owl_Cake_Stand.webp",
     "description": "Eco-friendly natural fiber handicrafts. Sustainable and biodegradable products.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 180,
-    "maxPrice": 500
+    "minPrice": 30,
+    "maxPrice": 60
   },
   {
     "id": "hnd-149",
@@ -1932,11 +1932,11 @@
     "image": "/handicrafts/Retro_Owl_Stool.png",
     "description": "Eco-friendly natural fiber handicrafts. Sustainable and biodegradable products.",
     "sampleMoq": 1,
-    "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-150",
@@ -1945,12 +1945,12 @@
     "image": "/handicrafts/Retro_Pop_Bowl.png",
     "description": "Eco-friendly natural fiber handicrafts. Sustainable and biodegradable products.",
     "sampleMoq": 1,
-    "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1000
-  },
+    "minPrice": 30,
+    "maxPrice": 70
+  }, 
   {
     "id": "hnd-151",
     "name": "Round Floor Cushion",
@@ -1959,10 +1959,10 @@
     "description": "Handmade decorative trims with traditional techniques. Perfect for upholstery and garments.",
     "sampleMoq": 1,
     "mainMoq": 5,
-    "hsCode": "6304.99.00",
+    "hsCode": "9404.90.00",
     "orderType": "main",
-    "minPrice": 100,
-    "maxPrice": 300
+    "minPrice": 12,
+    "maxPrice": 35
   },
   {
     "id": "hnd-152",
@@ -1971,11 +1971,11 @@
     "image": "/handicrafts/Sailing_Ship_Showpiece.png",
     "description": "Handmade decorative showpiece with traditional techniques. Perfect for home décor and collectors.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4420.10.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 15,
+    "maxPrice": 35
   },
   {
     "id": "hnd-153",
@@ -1985,10 +1985,10 @@
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 280,
-    "maxPrice": 750
+    "minPrice": 30,
+    "maxPrice": 60
   },
   {
     "id": "hnd-154",
@@ -1998,10 +1998,10 @@
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 1000,
-    "maxPrice": 2500
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-155",
@@ -2011,10 +2011,10 @@
     "description": "Handcrafted wooden key holder with a natural finish. Durable and functional.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2000
+    "minPrice": 9,
+    "maxPrice": 30
   },
   {
     "id": "hnd-156",
@@ -2023,11 +2023,11 @@
     "image": "/handicrafts/Silk_Patola_Kantha.png",
     "description": "Handmade textiles with traditional embroidery. Beautiful patterns representing cultural heritage.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "6301.30.00",
     "orderType": "main",
-    "minPrice": 2000,
-    "maxPrice": 5000
+    "minPrice": 33,
+    "maxPrice": 70
   },
   {
     "id": "hnd-157",
@@ -2037,10 +2037,10 @@
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 180,
-    "maxPrice": 500
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-158",
@@ -2052,8 +2052,8 @@
     "mainMoq": 4,
     "hsCode": "6304.99.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 12,
+    "maxPrice": 30
   },
   {
     "id": "hnd-159",
@@ -2063,10 +2063,10 @@
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 30,
+    "maxPrice": 70
   },
   {
     "id": "hnd-160",
@@ -2076,10 +2076,10 @@
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 21,
+    "maxPrice": 80
   },
   {
     "id": "hnd-161",
@@ -2088,11 +2088,11 @@
     "image": "/handicrafts/Spice_Box_Set_With_Spoon.png",
     "description": "Handmade spice storage set with a traditional design. Perfect for kitchen organization.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 1500,
-    "maxPrice": 3500
+    "minPrice": 12,
+    "maxPrice": 60
   },
   {
     "id": "hnd-162",
@@ -2101,11 +2101,11 @@
     "image": "/handicrafts/Spice_Box_Set_With_Spoonn.png",
     "description": "Handmade spice storage set with a traditional design. Perfect for kitchen organization.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 550
+    "minPrice": 12,
+    "maxPrice": 60
   },
   {
     "id": "hnd-163",
@@ -2115,10 +2115,10 @@
     "description": "Hand-painted pottery pieces with vibrant colors. Each item unique with artistic detailing.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1800
+    "minPrice": 12,
+    "maxPrice": 25
   },
   {
     "id": "hnd-164",
@@ -2128,10 +2128,10 @@
     "description": "Hand-painted ceramic pieces with traditional patterns. Suitable for display and collection.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 24,
+    "maxPrice": 50
   },
   {
     "id": "hnd-165",
@@ -2141,10 +2141,10 @@
     "description": "Handmade textiles with traditional embroidery. Beautiful patterns representing cultural heritage.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "6302.60.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 550
+    "minPrice": 3,
+    "maxPrice": 25
   },
   {
     "id": "hnd-166",
@@ -2154,10 +2154,10 @@
     "description": "Handmade textiles with traditional embroidery. Beautiful patterns representing cultural heritage.",
     "sampleMoq": 1,
     "mainMoq": 5,
-    "hsCode": "6304.99.00",
+    "hsCode": "6302.60.00",
     "orderType": "main",
-    "minPrice": 180,
-    "maxPrice": 500
+    "minPrice": 9,
+    "maxPrice": 25
   },
   {
     "id": "hnd-167",
@@ -2167,10 +2167,10 @@
     "description": "Handmade textiles with traditional embroidery. Beautiful patterns representing cultural heritage.",
     "sampleMoq": 1,
     "mainMoq": 4,
-    "hsCode": "6304.99.00",
-    "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "hsCode": "6302.60.00",
+      "orderType": "main",
+    "minPrice": 12,
+    "maxPrice": 35
   },
   {
     "id": "hnd-168",
@@ -2179,11 +2179,11 @@
     "image": "/handicrafts/Terracotta_Bloom_Stool.png",
     "description": "Handmade pottery with a natural finish. Durable and functional.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-169",
@@ -2195,8 +2195,8 @@
     "mainMoq": 4,
     "hsCode": "6304.99.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 550
+    "minPrice": 50,
+    "maxPrice": 120
   },
   {
     "id": "hnd-170",
@@ -2206,10 +2206,10 @@
     "description": "Handmade bags crafted with traditional techniques. Durable fabric and intricate patterns.",
     "sampleMoq": 1,
     "mainMoq": 5,
-    "hsCode": "6304.99.00",
+    "hsCode": "4202.92.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 12,
+    "maxPrice": 50
   },
   {
     "id": "hnd-171",
@@ -2219,10 +2219,10 @@
     "description": "Handmade textiles with traditional embroidery. Beautiful patterns representing cultural heritage.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 1200,
-    "maxPrice": 3000
+    "minPrice": 21,
+    "maxPrice": 45
   },
   {
     "id": "hnd-172",
@@ -2231,11 +2231,11 @@
     "image": "/handicrafts/Tropic_Leaf_Bowl.png",
     "description": "Handmade ceramics with a tropical theme. Perfect for adding a vibrant touch to any dining setting.",
     "sampleMoq": 1,
-    "mainMoq": 6,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 100,
-    "maxPrice": 300
+    "minPrice": 30,
+    "maxPrice": 70
   },
   {
     "id": "hnd-173",
@@ -2244,11 +2244,11 @@
     "image": "/handicrafts/Tropical_Bloom_Bowl.png",
     "description": "Handmade ceramics with a tropical theme. Perfect for adding a vibrant touch to any dining setting.",
     "sampleMoq": 1,
-    "mainMoq": 6,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 30,
+    "maxPrice": 40
   },
   {
     "id": "hnd-174",
@@ -2258,10 +2258,10 @@
     "description": "Handmade ceramics with a tropical theme. Perfect for adding a vibrant touch to any dining setting.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 12,
+    "maxPrice": 25
   },
   {
     "id": "hnd-175",
@@ -2271,10 +2271,10 @@
     "description": "Handmade ceramics with a tropical theme. Perfect for adding a vibrant touch to any dining setting.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 180,
-    "maxPrice": 500
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-176",
@@ -2284,10 +2284,10 @@
     "description": "Handmade ceramics with a tropical theme. Perfect for adding a vibrant touch to any dining setting.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-177",
@@ -2296,11 +2296,11 @@
     "image": "/handicrafts/Urban_Chevron_Bowl.png",
     "description": "Handmade ceramics with an urban chevron design. Perfect for adding a modern touch to any dining setting.",
     "sampleMoq": 1,
-    "mainMoq": 6,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 550
+    "minPrice": 15,
+    "maxPrice": 40
   },
   {
     "id": "hnd-178",
@@ -2310,10 +2310,10 @@
     "description": "Handmade accessories with traditional embroidery. Perfect for special occasions.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4202.32.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1500
+    "minPrice": 12,
+    "maxPrice": 40
   },
   {
     "id": "hnd-179",
@@ -2323,10 +2323,10 @@
     "description": "Handmade ceramics with a vintage floral design. Perfect for adding a classic touch to any dining setting.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "9401.69.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1800
+    "minPrice": 45,
+    "maxPrice": 110
   },
   {
     "id": "hnd-180",
@@ -2336,10 +2336,10 @@
     "description": "Handmade textiles with traditional embroidery. Beautiful patterns representing cultural heritage.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "6301.30.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 12,
+    "maxPrice": 50
   },
   {
     "id": "hnd-181",
@@ -2351,8 +2351,8 @@
     "mainMoq": 2,
     "hsCode": "6304.99.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1000
+    "minPrice": 18,
+    "maxPrice": 45
   },
   {
     "id": "hnd-182",
@@ -2362,10 +2362,10 @@
     "description": "Handmade key hanger with a wheel shape. Perfect for adding a unique touch to any entryway.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 6,
+    "maxPrice": 20
   },
   {
     "id": "hnd-183",
@@ -2375,10 +2375,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 9,
+    "maxPrice": 25
   },
   {
     "id": "hnd-184",
@@ -2387,11 +2387,11 @@
     "image": "/handicrafts/Wheel_Shaped_Tea_Coaster.png",
     "description": "Handmade textiles with traditional embroidery. Beautiful patterns representing cultural heritage.",
     "sampleMoq": 1,
-    "mainMoq": 6,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 100,
-    "maxPrice": 300
+    "minPrice": 6,
+    "maxPrice": 20
   },
   {
     "id": "hnd-185",
@@ -2401,10 +2401,10 @@
     "description": "Handmade ceramics with a winter sparrow design. Perfect for adding a seasonal touch to any dining setting.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 30,
+    "maxPrice": 40
   },
   {
     "id": "hnd-186",
@@ -2414,10 +2414,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 3,
+    "maxPrice": 15
   },
   {
     "id": "hnd-187",
@@ -2427,10 +2427,10 @@
     "description": "Authentic copper decorative pieces with intricate designs. Premium quality finish and patina.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 600
+    "minPrice": 3,
+    "maxPrice": 15
   },
   {
     "id": "hnd-188",
@@ -2440,10 +2440,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 450,
-    "maxPrice": 1200
+    "minPrice": 3,
+    "maxPrice": 15
   },
   {
     "id": "hnd-189",
@@ -2453,10 +2453,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 550,
-    "maxPrice": 1450
+    "minPrice": 6,
+    "maxPrice": 25
   },
   {
     "id": "hnd-190",
@@ -2466,10 +2466,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 12,
+    "maxPrice": 30
   },
   {
     "id": "hnd-191",
@@ -2479,10 +2479,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 400,
-    "maxPrice": 1100
+    "minPrice": 12,
+    "maxPrice": 30
   },
   {
     "id": "hnd-192",
@@ -2492,10 +2492,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2100
+    "minPrice": 12,
+    "maxPrice": 30
   },
   {
     "id": "hnd-193",
@@ -2505,10 +2505,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1600
+    "minPrice": 12,
+    "maxPrice": 30
   },
   {
     "id": "hnd-194",
@@ -2518,10 +2518,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 4,
+    "maxPrice": 25
   },
   {
     "id": "hnd-195",
@@ -2531,10 +2531,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 9,
+    "maxPrice": 25
   },
   {
     "id": "hnd-196",
@@ -2544,10 +2544,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 3,
+    "maxPrice": 15
   },
   {
     "id": "hnd-197",
@@ -2556,11 +2556,11 @@
     "image": "/handicrafts/Wooden_Cooking_Spoon.png",
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
-    "mainMoq": 6,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1500
+    "minPrice": 3,
+    "maxPrice": 5
   },
   {
     "id": "hnd-198",
@@ -2570,10 +2570,10 @@
     "description": "Hand-carved wooden pieces with traditional designs. Durable and timeless.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 6,
+    "maxPrice": 25
   },
   {
     "id": "hnd-199",
@@ -2583,10 +2583,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1900
+    "minPrice": 18,
+    "maxPrice": 50
   },
   {
     "id": "hnd-200",
@@ -2596,10 +2596,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 3,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 1200,
-    "maxPrice": 3200
+    "minPrice": 9,
+    "maxPrice": 25
   },
   {
     "id": "hnd-201",
@@ -2609,10 +2609,10 @@
     "description": "Hand-carved wooden pieces with traditional designs. Durable and timeless.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2100
+    "minPrice": 6,
+    "maxPrice": 25
   },
   {
     "id": "hnd-202",
@@ -2622,10 +2622,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1800
+    "minPrice": 6,
+    "maxPrice": 30
   },
   {
     "id": "hnd-203",
@@ -2635,10 +2635,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 5,
+    "maxPrice": 25
   },
   {
     "id": "hnd-204",
@@ -2647,11 +2647,11 @@
     "image": "/handicrafts/Wooden_Mortar_Pestlee.png",
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
-    "mainMoq": 6,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 100,
-    "maxPrice": 300
+    "minPrice": 5,
+    "maxPrice": 25
   },
   {
     "id": "hnd-205",
@@ -2661,10 +2661,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1500
+    "minPrice": 5,
+    "maxPrice": 25
   },
   {
     "id": "hnd-206",
@@ -2674,10 +2674,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 300,
-    "maxPrice": 800
+    "minPrice": 5,
+    "maxPrice": 25
   },
   {
     "id": "hnd-207",
@@ -2687,10 +2687,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 5,
+    "maxPrice": 25
   },
   {
     "id": "hnd-208",
@@ -2700,10 +2700,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 1000,
-    "maxPrice": 2500
+    "minPrice": 6,
+    "maxPrice": 25
   },
   {
     "id": "hnd-209",
@@ -2713,10 +2713,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 600,
-    "maxPrice": 1600
+    "minPrice": 6,
+    "maxPrice": 30
   },
   {
     "id": "hnd-210",
@@ -2726,10 +2726,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 800,
-    "maxPrice": 2100
+    "minPrice": 3,
+    "maxPrice": 20
   },
   {
     "id": "hnd-211",
@@ -2739,10 +2739,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.10.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1800
+    "minPrice": 15,
+    "maxPrice": 30
   },
   {
     "id": "hnd-212",
@@ -2752,10 +2752,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 1200,
-    "maxPrice": 3000
+    "minPrice": 3,
+    "maxPrice": 15
   },
   {
     "id": "hnd-213",
@@ -2765,10 +2765,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 3000,
-    "maxPrice": 8000
+    "minPrice": 9,
+    "maxPrice": 30
   },
   {
     "id": "hnd-214",
@@ -2777,11 +2777,11 @@
     "image": "/handicrafts/Wooden_Serving_Tray_Set_of_3.png",
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
-    "mainMoq": 1,
-    "hsCode": "6304.99.00",
+    "mainMoq": 500,
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 1500,
-    "maxPrice": 4000
+    "minPrice": 15,
+    "maxPrice": 90
   },
   {
     "id": "hnd-215",
@@ -2791,10 +2791,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 80,
-    "maxPrice": 250
+    "minPrice": 9,
+    "maxPrice": 30
   },
   {
     "id": "hnd-216",
@@ -2804,10 +2804,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4420.90.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 3,
+    "maxPrice": 30
   },
   {
     "id": "hnd-217",
@@ -2817,10 +2817,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 12,
+    "maxPrice": 60
   },
   {
     "id": "hnd-218",
@@ -2830,10 +2830,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 200,
-    "maxPrice": 550
+    "minPrice": 6,
+    "maxPrice": 20
   },
   {
     "id": "hnd-219",
@@ -2843,10 +2843,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 350,
-    "maxPrice": 900
+    "minPrice": 9,
+    "maxPrice": 30
   },
   {
     "id": "hnd-220",
@@ -2856,10 +2856,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "6602.00.00",
     "orderType": "main",
-    "minPrice": 120,
-    "maxPrice": 350
+    "minPrice": 9,
+    "maxPrice": 40
   },
   {
     "id": "hnd-221",
@@ -2869,10 +2869,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "6602.00.00",
     "orderType": "main",
-    "minPrice": 500,
-    "maxPrice": 1300
+    "minPrice": 9,
+    "maxPrice": 40
   },
   {
     "id": "hnd-222",
@@ -2882,10 +2882,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "6602.00.00",
     "orderType": "main",
-    "minPrice": 250,
-    "maxPrice": 700
+    "minPrice": 9,
+    "maxPrice": 40
   },
   {
     "id": "hnd-223",
@@ -2895,10 +2895,10 @@
     "description": "Handmade wooden accessories with traditional craftsmanship. Perfect for adding a rustic touch to any space.",
     "sampleMoq": 1,
     "mainMoq": 2,
-    "hsCode": "6304.99.00",
+    "hsCode": "6602.00.00",
     "orderType": "main",
-    "minPrice": 700,
-    "maxPrice": 1800
+    "minPrice": 9,
+    "maxPrice": 40
   },
   {
     "id": "hnd-224",
@@ -2908,9 +2908,9 @@
     "description": "Handmade decorative trims with traditional techniques. Perfect for upholstery and garments.",
     "sampleMoq": 1,
     "mainMoq": 5,
-    "hsCode": "6304.99.00",
+    "hsCode": "4419.00.00",
     "orderType": "main",
-    "minPrice": 150,
-    "maxPrice": 450
+    "minPrice": 12,
+    "maxPrice": 25
   }
 ]

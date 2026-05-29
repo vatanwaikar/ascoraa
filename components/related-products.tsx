@@ -77,11 +77,11 @@ export function RelatedProducts({ currentProductId, category, limit = 4 }: Relat
                   {(product as any).minPrice && (
                     <div className="flex items-center gap-2 mb-3">
                       <span className="text-lg font-bold text-blue-600 dark:text-blue-400">
-                        ₹{((product as any).minPrice as number).toLocaleString()}
+                        ${((product as any).minPrice as number).toLocaleString()}
                       </span>
                       <span className="text-gray-400">–</span>
                       <span className="text-lg font-bold text-blue-600 dark:text-blue-400">
-                        ₹{((product as any).maxPrice as number).toLocaleString()}
+                        ${((product as any).maxPrice as number).toLocaleString()}
                       </span>
                     </div>
                   )}

@@ -19,7 +19,7 @@ export function Footer() {
             <p className="text-sm opacity-90 mb-6">
               Connecting global businesses through reliable import and export solutions since 2015.
             </p>
-            <div className="flex gap-4">
+            {/* <div className="flex gap-4">
               <a href="#" className="hover:text-accent transition-colors">
                 <Facebook size={20} />
               </a>
@@ -29,7 +29,7 @@ export function Footer() {
               <a href="#" className="hover:text-accent transition-colors">
                 <Linkedin size={20} />
               </a>
-            </div>
+            </div> */}
           </div>
 
           {/* Products */}

@@ -12,7 +12,7 @@ export function Navigation() {
   const pathname = usePathname()
 
   const links = [
-    { href: '/', label: 'Home' },
+    // { href: '/', label: 'Home' },
     { href: '/about', label: 'About' },
     { href: '/export-services', label: 'Services' },
     { href: '/industries', label: 'Industries' },
@@ -68,13 +68,13 @@ export function Navigation() {
               )
             })}
 
-            {/* CTA Button */}
-            <Link
+            
+            {/* <Link
               href="/contact"
               className="px-5 py-2 rounded-lg bg-black text-white text-sm font-medium hover:bg-gray-800 transition"
             >
               Get Started
-            </Link>
+            </Link> */}
           </div>
 
           {/* Mobile Menu Button */}
