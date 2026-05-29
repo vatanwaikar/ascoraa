@@ -28,7 +28,7 @@ export function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 font-bold text-xl">
             <Image
-              src="/ascorab.png"
+              src="/Ascorab.png"
               alt="Ascora Logo"
               width={200}
               height={200}
