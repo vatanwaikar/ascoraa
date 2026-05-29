@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   keywords: 'import export, B2B trading, global commerce, international business, wholesale',
   openGraph: {
     title: 'Ascora - Global Import & Export Solutions',
-    description: 'Connect with international trading partners and expand your global business reach.',
+    description: 'Connect with international trading partners & expand your global business reach.',
     type: 'website',
   },
   icons: {
